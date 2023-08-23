@@ -15,16 +15,16 @@ The RSNA Abdominal Trauma Detection AI Challenge, organized by the RSNA in colla
 
 
 # Dataset Description
-bowel_injury - Damage or harm that occurs to the intestines.
-bowel_healthy - No damage or harm to the intestines.
-extravasation_injury - Refers to internal bleeding.
-extravasation_healthy - No internal bleeding detected.
-kidney_healthy - No kidney injury detected
-kidney_low - Low grade Kidney injury detected
-kidney_high - High grade Kidney injury detected
-liver_healthy - No liver injury detected
-liver_low - Low grade liver injury detected
-liver_high - High grade liver injury detected
-spleen_healthy - No spleen injury detected
-spleen_low - Low grade spleen injury detected
-spleen_high - High grade spleen injury detected
+- bowel_injury - Damage or harm that occurs to the intestines.
+- bowel_healthy - No damage or harm to the intestines.
+- extravasation_injury - Refers to internal bleeding.
+- extravasation_healthy - No internal bleeding detected.
+- kidney_healthy - No kidney injury detected
+- kidney_low - Low grade Kidney injury detected
+- kidney_high - High grade Kidney injury detected
+- liver_healthy - No liver injury detected
+- liver_low - Low grade liver injury detected
+- liver_high - High grade liver injury detected
+- spleen_healthy - No spleen injury detected
+- spleen_low - Low grade spleen injury detected
+- spleen_high - High grade spleen injury detected
