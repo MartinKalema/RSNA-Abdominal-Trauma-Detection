@@ -1,4 +1,4 @@
-# RSNA-Trauma-Detection-Challenge
+# RSNA-Abdominal-Trauma-Detection-Challenge
 This repository contains the code and resources for the Abdominal Trauma Detection Model competition organized by the Radiological Society of North America (RSNA).
 
 # Competition Description
