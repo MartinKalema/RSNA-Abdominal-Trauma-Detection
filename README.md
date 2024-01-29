@@ -32,6 +32,7 @@ The RSNA Abdominal Trauma Detection AI Challenge, organized by the RSNA in colla
 - spleen_high - High grade spleen injury detected
 
 ## Clone 
+Clone this repository into your current working directory using the bash command below
 ```
-git clone https://github.com/MartinKalema/RSNA-Abdominal-Trauma-Detection-Classification
+git clone https://github.com/MartinKalema/RSNA-Abdominal-Trauma-Detection
 ```
