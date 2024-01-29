@@ -30,3 +30,8 @@ The RSNA Abdominal Trauma Detection AI Challenge, organized by the RSNA in colla
 - spleen_healthy - No spleen injury detected
 - spleen_low - Low grade spleen injury detected
 - spleen_high - High grade spleen injury detected
+
+## Clone 
+```
+git clone https://github.com/MartinKalema/RSNA-Abdominal-Trauma-Detection-Classification
+```
