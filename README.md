@@ -1,7 +1,7 @@
-# RSNA-Abdominal-Trauma-Detection-Challenge
+## RSNA-Abdominal-Trauma-Detection-Challenge
 This repository contains the code and resources for the Abdominal Trauma Detection Model competition organized by the Radiological Society of North America (RSNA).
 
-# Competition Description
+## Competition Description
 Traumatic injury is the most common cause of death in the first four decades of life and a significant public health problem around the world. There are estimated to be more than 5 million annual deaths worldwide from traumatic injury. Prompt and accurate diagnosis of traumatic injuries is crucial for initiating appropriate and timely interventions, which can significantly improve patient outcomes and survival rates. Computed tomography (CT) has become an indispensable tool in evaluating patients with suspected abdominal injuries due to its ability to provide detailed cross-sectional images of the abdomen.
 
 HOWEVER, interpreting CT scans for abdominal trauma can be a complex and time-consuming task, especially when multiple injuries or areas of subtle active bleeding are present. This challenge seeks to harness the power of artificial intelligence and machine learning to assist medical professionals in rapidly and precisely detecting injuries and grading their severity. The development of advanced algorithms for this purpose has the potential to improve trauma care and patient outcomes worldwide.
@@ -14,7 +14,7 @@ Prompt diagnosis of abdominal trauma using medical imaging is thus critical to p
 The RSNA Abdominal Trauma Detection AI Challenge, organized by the RSNA in collaboration with the American Society of Emergency Radiology (ASER) and the Society for Abdominal Radiology (SAR), gives researchers the task of building models that detect severe injury to the internal abdominal organs, including the liver, kidneys, spleen, and bowel, as well as any active internal bleeding.
 
 
-# Dataset Description
+## Dataset Description
 - bowel_injury - Damage or harm that occurs to the intestines.
 - bowel_healthy - No damage or harm to the intestines.
 - extravasation_injury - Refers to internal bleeding.
